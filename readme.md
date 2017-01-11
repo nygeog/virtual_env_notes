@@ -11,4 +11,8 @@ Deactivate Virtual Env.
 	$ deactivate
 	
 	
-http://docs.python-guide.org/en/latest/dev/virtualenvs/	
+http://docs.python-guide.org/en/latest/dev/virtualenvs/
+
+### Save 
+Press i to enter inline insert mode. Type the description at the very top, press esc to exit insert mode, then type :x! (now the cursor is at the bottom) and hit enter to save and exit. You can also add the commit message from the command line. and the editor will not be opened in the first place.
+	
