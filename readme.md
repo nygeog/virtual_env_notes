@@ -9,3 +9,6 @@ Activate Virtual Env.
 Deactivate Virtual Env.	
 
 	$ deactivate
+	
+	
+http://docs.python-guide.org/en/latest/dev/virtualenvs/	
