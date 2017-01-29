@@ -19,5 +19,5 @@ Press i to enter inline insert mode. Type the description at the very top, press
 Install Requirements.txt
 * http://stackoverflow.com/questions/7225900/how-to-pip-install-packages-according-to-requirements-txt-from-a-local-directory
 
-	pip install -r /path/to/requirements.txt
+		pip install -r /path/to/requirements.txt
 	
